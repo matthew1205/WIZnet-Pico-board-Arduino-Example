@@ -1,1 +1,1 @@
-#WIZnet-Pico-board Arduino Example [RP2040]
+WIZnet-Pico-board Arduino Example [RP2040]
